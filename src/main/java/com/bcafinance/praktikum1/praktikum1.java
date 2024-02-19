@@ -17,6 +17,6 @@ public class praktikum1 {
                 hasil += val;
             }
         }
-        System.out.println("Input dari : "  + hasil);
+        System.out.println("Hasil : "  + hasil);
     }
 }
